@@ -1,14 +1,14 @@
 add(){
-  
+
 }
 
 subtract(){
-  
+
 }
 
 multiply(){
-  
+
 }
 divide(){
-  
+
 }
