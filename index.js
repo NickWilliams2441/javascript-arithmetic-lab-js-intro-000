@@ -3,5 +3,5 @@ function add(){
 }
 
 function add(2 + 3){
-  return add;
+  return add(2 + 3)
 }
