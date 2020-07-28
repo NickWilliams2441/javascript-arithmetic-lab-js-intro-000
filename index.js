@@ -1,7 +1,5 @@
-add(2 + 3)
+function add(){
+  
+}
 
-subtract()
 
-multiply()
-
-divide()
